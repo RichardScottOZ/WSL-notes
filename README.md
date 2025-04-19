@@ -32,8 +32,11 @@ When asked if you want to initialize Miniconda3, type "yes"
 
 
 Activate the installation:
-bashsource ~/.bashrc
+bash source ~/.bashrc
 
 Verify the installation:
-bashconda --version
+bash conda --version
+
+import torch
+print(torch.cuda.is_available())
 ```
