@@ -10,7 +10,7 @@ Type exit
 Type wsl
 Type sudo echo hi to confirm the new password works.
 ```
-
+```bash
 Installing Miniconda on WSL
 Here's how to install Miniconda on Windows Subsystem for Linux (WSL):
 
@@ -36,3 +36,4 @@ bashsource ~/.bashrc
 
 Verify the installation:
 bashconda --version
+```
