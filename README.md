@@ -16,13 +16,13 @@ Here's how to install Miniconda on Windows Subsystem for Linux (WSL):
 
 Open your WSL terminal
 Download the Miniconda installer:
-bashwget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
 Make the installer executable:
-bashchmod +x Miniconda3-latest-Linux-x86_64.sh
+bash chmod +x Miniconda3-latest-Linux-x86_64.sh
 
 Run the installer:
-bash./Miniconda3-latest-Linux-x86_64.sh
+bash ./Miniconda3-latest-Linux-x86_64.sh
 
 Follow the prompts:
 
