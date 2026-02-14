@@ -1,6 +1,8 @@
 # WSL-notes
 Notes on working with Windows Subsystem for Linux
 
+-default is 2 and Ubuntu
+
 # Password change
 ```cmd
 Open cmd.exe
