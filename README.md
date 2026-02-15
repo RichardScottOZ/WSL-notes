@@ -42,3 +42,10 @@ bash conda --version
 import torch
 print(torch.cuda.is_available())
 ```
+
+## browsers for jupyter
+```bash
+sudo apt install wslu
+echo 'export BROWSER=wslview' >> ~/.bashrc
+source ~/.bashrc
+```
